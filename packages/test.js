@@ -1,4 +1,4 @@
-const a = 2;
+const a = 22;
 const b = 'sss';
 const c = 'test';
 
